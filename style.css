@@ -43,7 +43,16 @@
   padding: 100px 0 100px 0;
 }
 .section6 .inti-section6 h2{
+  background-color: #ffffff;
  text-align: center;
+}
+.gelombang{
+  background-image: url("Vector\ 1.png");
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center top;
+  height: 723px;
 }
 .footer{
   margin: 20px 0 20px 0;
@@ -54,3 +63,10 @@
 .jaraktepi{
   padding: 0 30px 0 30px;
 }
+.medsos ul li{
+  display: inline-block;
+ 
+  color: #fff;
+ 
+  }
+  
